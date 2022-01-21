@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kakuru venkata saiswaroop
 - 👀 I’m interested in ...Aws Azure Gcp Terraform
-- 🌱 I’m currently learning ...Aws azure 
+- 🌱 I’m currently learning ...Aws azure Linux administration
 - 💞️ I’m looking to collaborate on ...Cloud operations
 - 📫 How to reach me ...https://www.linkedin.com/in/sai-swaroop-1199sai/
       U can reach me .... saiswaroopreddy@protonmail.com
