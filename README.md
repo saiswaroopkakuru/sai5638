@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...Aws azure 
 - 💞️ I’m looking to collaborate on ...Cloud operations
 - 📫 How to reach me ...https://www.linkedin.com/in/sai-swaroop-1199sai/
-      U can reach me ....saiswaroopreddy@protonmail.com
+      U can reach me .... saiswaroopreddy@protonmail.com
 
 <!---
 sai5638/sai5638 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
